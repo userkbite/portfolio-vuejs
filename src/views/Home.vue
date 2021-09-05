@@ -55,7 +55,7 @@
 
     <section id="contact">
       <h1>Contact</h1>
-      <span>💬 user-kbite@gmail.com</span>
+      <span>💬 user.kbite@gmail.com</span>
       <div class="contact__links">
         <a href="#">Discord</a>
         <a href="#">Instagram</a>
